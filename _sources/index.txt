@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-MobileApp Demo's TOP-PAGE
+:navy:`モバイルアプリ デモ TOP`
 ==========================================
 
 Contents:
@@ -12,3 +12,4 @@ Contents:
    :maxdepth: 2
 
    mypage
+   notification

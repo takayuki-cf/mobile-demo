@@ -1,0 +1,23 @@
+=============================================
+:navy:`件名：○○○ のお知らせ`
+=============================================
+
+
+日付
+
+::
+
+   2016-05-01 
+
+詳細
+
+::
+
+   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+:doc:`戻る<notification>`  
