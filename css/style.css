@@ -1,0 +1,93 @@
+/* F
+-----------------------------------------------------------------------------------------------------------*/
+
+.ui-bar-f {
+	border: 1px solid 		#da7600;
+	background: 			#f38400;
+	color: 					#ffffff;
+	font-weight: bold;
+	text-shadow: 0 -1px 1px #da7600;
+	background-image: -webkit-gradient(linear, left top, left bottom, from( #ff8b00), to( #f38400));
+	background-image: -webkit-linear-gradient(#ff8b00, #f38400);
+	background-image:    -moz-linear-gradient(#ff8b00, #f38400);
+	background-image:     -ms-linear-gradient(#ff8b00, #f38400);
+	background-image:      -o-linear-gradient(#ff8b00, #f38400);
+	background-image:         linear-gradient(#ff8b00, #f38400);
+}
+.ui-btn-up-f {
+	text-decoration: none;
+	border: 1px solid 		#da7600;
+	background: 			#f38400;
+	font-weight: bold;
+	color: 					#fff;
+	text-shadow: 0 -1px 1px #da7600;
+	background-image: -webkit-gradient(linear, left top, left bottom, from( #ff8b00), to( #f38400));
+	background-image: -webkit-linear-gradient(#ff8b00, #f38400);
+	background-image:    -moz-linear-gradient(#ff8b00, #f38400);
+	background-image:     -ms-linear-gradient(#ff8b00, #f38400);
+	background-image:      -o-linear-gradient(#ff8b00, #f38400);
+	background-image:         linear-gradient(#ff8b00, #f38400);
+}
+.ui-btn-hover-f,
+.ui-btn-down-f,
+.ui-body-f .ui-btn-active {
+	text-decoration: none;
+	border: 1px solid 		#da7600;
+	background: 			#f38400;
+	font-weight: bold;
+	color: 					#fff;
+	text-shadow: 0 -1px 1px #da7600;
+	background-image: -webkit-gradient(linear, left top, left bottom, from( #f38400), to( #ff8b00));
+	background-image: -webkit-linear-gradient(#f38400, #ff8b00);
+	background-image:    -moz-linear-gradient(#f38400, #ff8b00);
+	background-image:     -ms-linear-gradient(#f38400, #ff8b00);
+	background-image:      -o-linear-gradient(#f38400, #ff8b00);
+	background-image:         linear-gradient(#f38400, #ff8b00);
+}
+
+/* 他
+-----------------------------------------------------------------------------------------------------------*/
+#new dl, #new dt, #new dd {
+	margin: 0px;
+	padding: 0px;
+}
+#new dt {
+	font-weight: bold;
+}
+#new dd {
+	border-bottom: 1px solid #999;
+}
+h2 {
+	font-size: 1.2em;
+	color: #f38400;
+}
+h2::before {
+	content: "■";
+}
+.ui-footer {
+	text-align: center;
+}
+.ui-footer a {
+	color: #FFF;
+	font-weight: normal;
+	text-decoration: none;
+}
+.ui-header h1 {
+	margin-left:0 !important;
+	margin-right:0 !important;
+}
+.mt {
+	margin-top: 1em !important;
+}
+#service h3, #service p{
+	overflow: visible;
+	white-space: normal;
+}
+#service .ui-li-thumb,
+#service .ui-li-thumb {
+	padding-top: 1em;
+	padding-left: 0.5em;
+}
+.tel {
+	font-size: 2em;
+}
